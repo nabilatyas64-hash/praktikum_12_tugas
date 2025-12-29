@@ -31,7 +31,7 @@ Buka file `.env` dan ubah isinya menjadi seperti ini untuk contoh
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=praktikum_week_12
+DB_DATABASE=praktikum_12
 DB_USERNAME=root
 DB_PASSWORD=
 ```
